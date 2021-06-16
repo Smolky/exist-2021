@@ -1,0 +1,20 @@
+{
+    "exist": {
+        "2021-es": {
+            "datasetClass": "DatasetExist",
+            "language": "es",
+            "tasks": {
+                "task-1": {"label": "label"},
+                "task-2": {"label": "category"}
+            }
+        },
+        "2021-en": {
+            "datasetClass": "DatasetExist",
+            "language": "en",
+            "tasks": {
+                "task-1": {"label": "label"},
+                "task-2": {"label": "category"}
+            }
+        }
+    }
+}
